@@ -4,7 +4,7 @@ from flask.ext.sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 app.config['DEBUG'] = True
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///reports.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///report.db'
 db = SQLAlchemy(app)
 #db.drop_all()
 db.create_all()
