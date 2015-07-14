@@ -11,6 +11,8 @@ db.create_all()
 
 
 
+
+
 @app.route('/')
 def index():
 	return "Hello World"
