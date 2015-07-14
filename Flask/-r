@@ -1,0 +1,5 @@
+You are using pip version 6.0.8, however version 7.1.0 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+Collecting requirements.txt
+  Could not find any downloads that satisfy the requirement requirements.txt
+  No distributions at all found for requirements.txt
