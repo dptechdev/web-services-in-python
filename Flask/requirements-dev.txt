@@ -1,0 +1,6 @@
+flask
+flask-jsonrpc
+sqlalchemy
+flask-sqlalchemy
+flask-login
+flask-basicauth
