@@ -1,7 +1,0 @@
-flask
-flask-restful
-flask-jsonrpc
-sqlalchemy
-flask-sqlalchemy
-flask-login
-flask-basicauth
